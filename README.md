@@ -28,7 +28,13 @@ mvn git-tag:create
 ```
 mvn git-tag:delete
 ```
+
 - 推动tag
 ```
 mvn git-tag:push
+```
+
+- 创建并推动tag
+```
+mvn git-tag:cp
 ```
