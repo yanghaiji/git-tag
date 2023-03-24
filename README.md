@@ -38,3 +38,8 @@ mvn git-tag:push
 ```
 mvn git-tag:cp
 ```
+
+- 对比两个版本的差异
+```
+mvn git-tag:contrast
+```
