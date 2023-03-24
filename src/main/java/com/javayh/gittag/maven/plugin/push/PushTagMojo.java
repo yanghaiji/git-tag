@@ -1,5 +1,6 @@
-package com.javayh.gittag;
+package com.javayh.gittag.maven.plugin.push;
 
+import com.javayh.gittag.maven.plugin.abstracts.AbstractTagMojo;
 import org.apache.maven.plugins.annotations.Mojo;
 
 import java.util.ArrayList;
